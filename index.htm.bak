@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hola Mundo</h1>
-<p>Estoy hosteado en GitHub Pages.</p>
-</body>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  </head>
+  <body>
+    <h1 style="text-align: center;">Hola Mundo</h1>
+    <p><br>
+    </p>
+    <p style="text-align: center;"><a href="file:///C:/Users/Antonio/Documents/GitHub/antoniomc.github.io/Contenido.md">Contenido</a></p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p style="text-align: right;">Hosteado en GitHub Pages.</p>
+  </body>
 </html>
